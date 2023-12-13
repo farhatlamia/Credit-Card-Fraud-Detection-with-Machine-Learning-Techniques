@@ -1,4 +1,5 @@
 In this work, I have applied two machine learning al- gorithms Logistic Regression and Gaussian Naive Bayes, and three deep learning algorithms Artificial Neural Network (ANN), Convolutional Neural Network (CNN) and Generative Adversarial Network (GAN). 
+
 Dataset: The dataset utilized in this study was obtained from the Kaggle website and comprises around 150,000 e-commerce transactions. The dataset has a total of 151,112 transactions, of which 14,151, or 9.36%, are identified as fraudulent transactions. All of the data provided is synthetic in nature.
 
 The key findings derived from this work:
